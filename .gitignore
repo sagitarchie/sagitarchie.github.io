@@ -1,2 +1,19 @@
+<<<<<<< HEAD
+.bundle
+.DS_Store
+.sass-cache
+.gist-cache
+.pygments-cache
+_deploy
+public
+sass.old
+source.old
+source/_stash
+source/stylesheets/screen.css
+vendor
+node_modules
+Gemfile.lock
+=======
 _site/
 .sass-cache/
+>>>>>>> 1e730562f4568ef7850602f707fedbe5758d13db
